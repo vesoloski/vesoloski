@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é bruno
+- 👀 Eu estou intereiçado em códigos
+- 🌱 Atualmente estou aprendendo programação
+- 💞️ Este é o meu gmail bruno.vesoloski@escola.pr.gov.br
